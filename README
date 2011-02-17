@@ -1,0 +1,8 @@
+jQuery Textile plug-in
+
+Based on classTextile.php, part of the Textpattern CMS system
+http://textpattern.com
+
+Ported for jQuery by Colin Viebrock
+
+This plug-in only handles the glyph conversion part of Textile.
